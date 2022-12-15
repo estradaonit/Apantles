@@ -328,7 +328,7 @@ namespace Apantles {
 			this->iconButton3->Rotation = 0;
 			this->iconButton3->Size = System::Drawing::Size(695, 128);
 			this->iconButton3->TabIndex = 4;
-			this->iconButton3->Text = L"Insertar palabras filtradas";
+			this->iconButton3->Text = L"Insertar archivo filtrado";
 			this->iconButton3->TextImageRelation = System::Windows::Forms::TextImageRelation::ImageBeforeText;
 			this->iconButton3->UseVisualStyleBackColor = true;
 			this->iconButton3->Click += gcnew System::EventHandler(this, &Abrir::iconButton3_Click);
