@@ -1,0 +1,32 @@
+Sujeto, Yo creo que lo se puede hacer para disminuir el riesgo de sufrir demencia es?,,,,,,,,,
+1,Actividad Mental,1,Mantenerse Informado,5,Leer,3,Alimentarse Sanamente,2,Hacer Ejercicio,4
+2,Hacer Ejercicio,3,Alimentarse Sanamente,1,Leer ,2,Actividad Mental,4,,
+3,Verificando Cambios De Humor,4,Alimentarse Sanamente,3,Hacer Revisiones Medicas Constantes,2,Hacer Revisiones Medicas Constantes,5,No Estres,1
+4,Hacer Ejercicio,1,Alimentarse Sanamente,2,Dormir Bien,4,Actividad Mental,3,,
+5,Hacer Ejercicio,5,Actividad Mental,1,Alimentarse Sanamente,2,Evitar Vicios O Controlarlos,3,Dormir Bien,4
+6,Actividad Mental,3,Vida Saludable,1,No Estres,2,Alimentarse Sanamente,5,No Estres,4
+7,Actividad Mental,1,Leer,2,Hacer Ejercicio,3,Actividad Mental,4,Alimentarse Sanamente,5
+8, Leer Mucho,2,Actividad Mental,1,Socializar,3,No Estres,5,No Estres,4
+9,Alimentarse Sanamente,1,Hacer Ejercicio,2,Alimentarse Sanamente,4,Actividad Mental,3,,
+10,Actividad Mental,1,No Padecer Enfermedades Neurologicas Psicopatologicas O Cronico Degenerativas,2,Hacer Ejercicio,3,Desarrollarse En Un Ambiente Funcional Que No Perjudique La Salud Mental,4,Alimentarse Sanamente,5
+11,Evitar Vicios O Controlarlos,1,Socializar,2,Alimentarse Sanamente,5,Hacer Ejercicio,4,Socializar,3
+12,Ser Organizado,2,Ser Organizado,1,,,,,,
+13,Hacer Manualidades,5,Actividad Mental,1,Actividad Mental,2,Leer ,3,Leer ,4
+14,Actividad Mental,4,Dormir Bien,3,Hacer Ejercicio,1,Alimentarse Sanamente,2,Socializar,5
+15,Hacer Ejercicio,1,No Estres,2,Evitar Vicios O Controlarlos,5,Socializar,3,Hacer Revisiones Medicas Constantes,4
+16,Moderarconsumo De Sustancias Noscivas Y Drogas,3,Alimentarse Sanamente,4,Actividad Mental,2,Hacer Ejercicio,1,,
+17,Socializar,1,Terapia Ocupacional,3,Alimentarse Sanamente,4,Actividad Mental,5,Ser Organizado,2
+18,Actividad Mental,2,Leer,1,Actividad Mental,3,Actividad Mental,4,Actividad Mental,5
+19,Actividad Mental,1,Actividad Mental,5,No Padecer Enfermedades Neurologicas Psicopatologicas O Cronico Degenerativas,4,Alimentarse Sanamente,2,Hacer Ejercicio,3
+20,No Estres,5,Hacer Ejercicio,4,No Estres,3,Evitar Vicios O Controlarlos,1,Desarrollarse En Un Ambiente Funcional Que No Perjudique La Salud Mental,2
+21,Alimentarse Sanamente,3,Hacer Ejercicio,2,Alimentarse Sanamente,1,No Estres,4,,
+22,Dormir Bien,1,Hacer Revisiones Medicas Constantes,3,Alimentarse Sanamente,2,Mantener Un Registro De Familiares Que Hayan Padecido Alguna Demencia O Enfermedad Mental,4,,
+23,Actividad Mental,1,Alimentarse Sanamente,2,Leer,3,Actividad Mental,4,,
+24,Actividad Mental,1,Mantener Comunicacion Constante Con Los Seres Queridos,3,Socializar,2,Socializar,4,Evitar Rutinas,5
+25,Leer,2,Hacer Ejercicio,3,Evitar Vicios O Controlarlos,1,,,,
+26,Dormir Bien,1,Leer ,2,Evitar Vicios O Controlarlos,3,No Estres,4,,
+27,Hacer Revisiones Medicas Constantes,3,Alimentarse Sanamente,1,Leer ,2,,,,
+28,Alimentarse Sanamente,1,Hacer Ejercicio,2,Dormir Bien,3,No Abusar Del Estres ,4,,
+29,Hacer Ejercicio,1,Leer,3,Alimentarse Sanamente,2,No Estres,5,Actividad Mental,4
+30,Socializar,1,Socializar,2,Alimentarse Sanamente,3,No Padecer Enfermedades Neurologicas Psicopatologicas O Cronico Degenerativas,4,Alimentarse Sanamente,5
+,
